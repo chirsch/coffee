@@ -1,0 +1,22 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chirsch/coffee.git"
+  },
+  "author": "Chris Hirsch <chrisjhirsch@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chirsch/coffee/issues"
+  },
+  "homepage": "https://github.com/chirsch/coffee#readme",
+  "dependencies": {
+    "animejs": "^2.2.0"
+  }
+}
